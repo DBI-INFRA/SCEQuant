@@ -6,6 +6,7 @@ This package was developed within the scope of a facility project, to automatica
 
 The package contains two sets of ImageJ macro code. The first `Segmentation.ijm` is meant for the detecting the chromosomes, and provides some tools for editing the labels. The second `FilterAndCountSCEs.ijm` provides an interactive GUI for filtering chromosomes of interest, and straightening them, then detecting and counting SCEs from the straightened chromosomes. Each script is modular, and can be installed separately (for example, if a different method of segmentation is preferred).
 
+![figure](https://images.squarespace-cdn.com/content/63bfe38452841350f8bbdd83/81605d03-f59d-4951-9e64-dd7b1df142a2/DBI_Site_Slide_20230901.JPG)
 
 ## Method
 
